@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     
+    
 
 }
 .redes{
@@ -31,6 +32,7 @@ img{
 @media (max-width:575px) {
     .container{
         flex-direction: column;
+       
        
     
     }
